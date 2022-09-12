@@ -1,0 +1,22 @@
+{
+  "state": {
+    "turn": true,
+    "move": 0,
+    "board": [
+      {
+        "index": 1,
+        "empty": [
+          "_"
+        ],
+        "filled": [
+          "O"
+        ]    
+      }
+    ]
+  },
+  "history": [
+    {
+
+      }
+  ]
+}

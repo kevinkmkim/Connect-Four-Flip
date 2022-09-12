@@ -1,0 +1,9 @@
+(env
+ (dev
+  (flags
+   (:standard -w -32-33))))
+
+(library
+ (name game)
+ (public_name Game)
+ (libraries yojson ANSITerminal Str))
