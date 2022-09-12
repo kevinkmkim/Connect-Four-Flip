@@ -1,10 +1,11 @@
 # Connect 4 Flip
-Course Project for CS3110 Data Structures and Functional Programming 
+Course Project for CS3110 Data Structures and Functional Programming
+
 ### Authors
-- Eric Zhang (ezz5)
-- Kevin Kim (kk946)
-- Matt Salud (mls569)
-- Pun Chaixanien (sc2343)
+- Kevin Kim
+- Pun Chaixanien
+- Matt Salud
+- Eric Zhang
 
 ## Introduction
 This project is a text based game called 'Connect 4 Flip', a variant of Connect 4. The difference between Connect 4 is that the player can use a turn to flip the board by 180 degrees instead of placing a tile. This will cause gravity to pull all the tiles down and alter the board state. A player wins when they have more unique connect fours on the board at a single point.
